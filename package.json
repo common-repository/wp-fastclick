@@ -1,0 +1,33 @@
+{
+  "name": "wp-fastclick",
+  "version": "1.0.2",
+  "description": "Wp FastClick plugin remove click delays on browsers with touch UIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohandere/wp-fastclick.git"
+  },
+  "keywords": [
+    "fastclick",
+    "mobile",
+    "touch",
+    "tap",
+    "click",
+    "delay",
+    "browsers",
+    "laggy"
+  ],
+  "author": "Mohan Dere",
+  "license": "GPLv3 or later",
+  "bugs": {
+    "url": "https://github.com/mohandere/wp-fastclick/issues"
+  },
+  "homepage": "https://github.com/mohandere/wp-fastclick#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0"
+  }
+}
